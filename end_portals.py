@@ -1,7 +1,7 @@
 end_portals = [
     {
         'id':'End portal',
-        'x':69,
+        'x':-69,
         'y':48,
         'z':219,
         'name':'End portal namber 1'
@@ -169,7 +169,7 @@ end_portals = [
     },
     {
         'id':'End portal',
-        'x':-818,
+        'x':818,
         'y':48,
         'z':-1174,
         'name':'End portal namber 22'
