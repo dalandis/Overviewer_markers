@@ -4,7 +4,7 @@ yellow = [
         'x':-149,
         'y':48,
         'z':-79,
-        'name':'player MizharkPlay'
+        'name':'MizharkPlay'
     #  'description':' '
     },
     {
@@ -20,7 +20,7 @@ yellow = [
         'x':-253,
         'y':48,
         'z':-228,
-        'name':'player _Kaktus_CZ_'
+        'name':'_Kaktus_CZ_'
     #  'description':' '
     },
     {
@@ -36,7 +36,7 @@ yellow = [
         'x':-334,
         'y':48,
         'z':105,
-        'name':'player Torsons'
+        'name':'Torsons'
     #  'description':' '
     },
     {
@@ -44,7 +44,7 @@ yellow = [
         'x':-337,
         'y':48,
         'z':36,
-        'name':'player JayJay'
+        'name':'JayJay'
     #  'description':' '
     },
     {
@@ -52,7 +52,7 @@ yellow = [
         'x':-396,
         'y':48,
         'z':51,
-        'name':'player ponchers'
+        'name':'ponchers'
     #  'description':' '
     },
     {
@@ -60,7 +60,7 @@ yellow = [
         'x':-517,
         'y':48,
         'z':196,
-        'name':'player IL86'
+        'name':'IL86'
     #  'description':' '
     },
     {
@@ -76,7 +76,7 @@ yellow = [
         'x':-597,
         'y':48,
         'z':-223,
-        'name':'player _LoveSosa_'
+        'name':'_LoveSosa_'
     #  'description':' '
     },
     {
@@ -84,7 +84,7 @@ yellow = [
         'x':-636,
         'y':48,
         'z':415,
-        'name':'player  Dir19 (loblNemezis)'
+        'name':'Dir19 (loblNemezis)'
     #  'description':' '
     },
     {
@@ -92,7 +92,7 @@ yellow = [
         'x':-654,
         'y':48,
         'z':-232,
-        'name':'player  VessAY & Kerubifi (BearBlackMag)'
+        'name':'VessAY & Kerubifi (BearBlackMag)'
     #  'description':' '
     },
     {
@@ -100,31 +100,7 @@ yellow = [
         'x':-696,
         'y':48,
         'z':113,
-        'name':'player  oplkill'
-    #  'description':' '
-    },
-    {
-        'id':'Жёлтая ветка',
-        'x':-703,
-        'y':48,
-        'z':-650,
-        'name':'End portal namber 12'
-    #  'description':' '
-    },
-    {
-        'id':'Жёлтая ветка',
-        'x':-714,
-        'y':48,
-        'z':194,
-        'name':'Тогровый центр & комплекс ферм'
-    #  'description':' '
-    },
-    {
-        'id':'Жёлтая ветка',
-        'x':-712,
-        'y':48,
-        'z':-125,
-        'name':'End portal namber 3'
+        'name':'oplkill'
     #  'description':' '
     },
     {
@@ -132,7 +108,7 @@ yellow = [
         'x':-739,
         'y':48,
         'z':-454,
-        'name':'player GoodDra'
+        'name':'GoodDra'
     #  'description':' '
     },
     {
@@ -140,7 +116,7 @@ yellow = [
         'x':-751,
         'y':48,
         'z':167,
-        'name':'player EUGENlJUS'
+        'name':'EUGENlJUS'
     #  'description':' '
     },
     {
@@ -148,7 +124,7 @@ yellow = [
         'x':-833,
         'y':48,
         'z':174,
-        'name':'player CKOBOPODKA2'
+        'name':'CKOBOPODKA2'
     #  'description':' '
     },
     {
@@ -156,15 +132,7 @@ yellow = [
         'x':-849,
         'y':48,
         'z':1,
-        'name':'player DamirF777'
-    #  'description':' '
-    },
-    {
-        'id':'Жёлтая ветка',
-        'x':-850,
-        'y':48,
-        'z':512,
-        'name':'End portal namber 13'
+        'name':'DamirF777'
     #  'description':' '
     },
     {
@@ -172,7 +140,7 @@ yellow = [
         'x':-863,
         'y':48,
         'z':407,
-        'name':'player prestig9110 & beJIbIu_WhiTe & InterpoL'
+        'name':'prestig9110 && beJIbIu_WhiTe && InterpoL'
     #  'description':' '
     },
     {
@@ -180,7 +148,7 @@ yellow = [
         'x':-874,
         'y':48,
         'z':-63,
-        'name':'player _Almazik_'
+        'name':'_Almazik_'
     #  'description':' '
     },
     {
@@ -188,7 +156,7 @@ yellow = [
         'x':-917,
         'y':48,
         'z':-661,
-        'name':'Ферма трезубцев & player a_fantasy'
+        'name':'Ферма трезубцев && a_fantasy'
     #  'description':' '
     },
     {
@@ -196,15 +164,7 @@ yellow = [
         'x':-971,
         'y':48,
         'z':406,
-        'name':'player IwINy (llklxq)'
-    #  'description':' '
-    },
-    {
-        'id':'Жёлтая ветка',
-        'x':-1004,
-        'y':48,
-        'z':-90,
-        'name':'End portal namber 14'
+        'name':'IwINy (llklxq)'
     #  'description':' '
     },
     {
@@ -212,7 +172,7 @@ yellow = [
         'x':-1019,
         'y':48,
         'z':-6,
-        'name':'player Catogg'
+        'name':'Catogg'
     #  'description':' '
     },
     {
@@ -220,15 +180,7 @@ yellow = [
         'x':-1038,
         'y':48,
         'z':170,
-        'name':'player Alissi'
-    #  'description':' '
-    },
-    {
-        'id':'Жёлтая ветка',
-        'x':-1038,
-        'y':48,
-        'z':963,
-        'name':'End portal namber 6'
+        'name':'Alissi'
     #  'description':' '
     },
     {
@@ -236,7 +188,7 @@ yellow = [
         'x':-1105,
         'y':48,
         'z':258,
-        'name':'player CooperLiber'
+        'name':'CooperLiber'
     #  'description':' '
     },
     {
@@ -244,15 +196,7 @@ yellow = [
         'x':-1139,
         'y':48,
         'z':866,
-        'name':'player AmuTige'
+        'name':'AmuTige'
     #  'description':' '
     },
-    {
-        'id':'Жёлтая ветка',
-        'x':-1229,
-        'y':48,
-        'z':-686,
-        'name':'End portal namber 23'
-    #  'description':' '
-    }
 ]
