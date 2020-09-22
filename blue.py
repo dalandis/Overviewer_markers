@@ -2,7 +2,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':33,
-        'y':44,
+        'y':48,
         'z':76,
         'name':'RadioHad && caxarok'
     #  'description':' '
@@ -10,7 +10,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':-15,
-        'y':44,
+        'y':48,
         'z':88,
         'name':'_Adrian_07_'
     #  'description':' '
@@ -18,7 +18,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':-37,
-        'y':44,
+        'y':48,
         'z':108,
         'name':'_Adrian_07_'
     #  'description':' '
@@ -26,7 +26,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':32,
-        'y':44,
+        'y':48,
         'z':112,
         'name':'PrOsTiK'
     #  'description':' '
@@ -34,7 +34,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':2,
-        'y':44,
+        'y':48,
         'z':164,
         'name':'MinorSpace'
     #  'description':' '
@@ -42,7 +42,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':69,
-        'y':44,
+        'y':48,
         'z':219,
         'name':'End portal namber 1'
     #  'description':' '
@@ -50,7 +50,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':51,
-        'y':44,
+        'y':48,
         'z':245,
         'name':'Simply_Red'
     #  'description':' '
@@ -58,7 +58,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':42,
-        'y':44,
+        'y':48,
         'z':257,
         'name':'ApelsinA'
     #  'description':' '
@@ -66,7 +66,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':97,
-        'y':44,
+        'y':48,
         'z':255,
         'name':'Ферма шерсти'
     #  'description':' '
@@ -74,7 +74,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':398,
-        'y':44,
+        'y':48,
         'z':464,
         'name':'vitux & Yurik10'
     #  'description':' '
@@ -82,7 +82,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':4,
-        'y':44,
+        'y':48,
         'z':491,
         'name':'Тогровый центр'
     #  'description':' '
@@ -90,7 +90,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':-57,
-        'y':44,
+        'y':48,
         'z':493,
         'name':'Makasake'
     #  'description':' '
@@ -98,7 +98,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':-303,
-        'y':44,
+        'y':48,
         'z':502,
         'name':'lemon & welcome32'
     #  'description':' '
@@ -106,7 +106,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':-438,
-        'y':44,
+        'y':48,
         'z':508,
         'name':'End portal namber 19'
     #  'description':' '
@@ -114,7 +114,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':-256,
-        'y':44,
+        'y':48,
         'z':523,
         'name':'THESKILL'
     #  'description':' '
@@ -122,7 +122,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':195,
-        'y':44,
+        'y':48,
         'z':547,
         'name':'End portal namber 17'
     #  'description':' '
@@ -130,7 +130,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':71,
-        'y':44,
+        'y':48,
         'z':551,
         'name':'Ферма снега'
     #  'description':' '
@@ -138,7 +138,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':-348,
-        'y':44,
+        'y':48,
         'z':552,
         'name':'MyNameIsNik45'
     #  'description':' '
@@ -146,7 +146,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':-125,
-        'y':44,
+        'y':48,
         'z':625,
         'name':'Ферма лиан'
     #  'description':' '
@@ -154,7 +154,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':296,
-        'y':44,
+        'y':48,
         'z':668,
         'name':'ne_chebyrek'
     #  'description':' '
@@ -162,7 +162,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':-187,
-        'y':44,
+        'y':48,
         'z':806,
         'name':'20Roma20'
     #  'description':' '
@@ -170,7 +170,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':63,
-        'y':44,
+        'y':48,
         'z':880,
         'name':'Ферма спрутов'
     #  'description':' '
@@ -178,7 +178,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':-434,
-        'y':44,
+        'y':48,
         'z':956,
         'name':'End portal namber 18'
     #  'description':' '
@@ -186,7 +186,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':231,
-        'y':44,
+        'y':48,
         'z':1015,
         'name':'End portal namber 24'
     #  'description':' '
@@ -194,7 +194,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':-319,
-        'y':44,
+        'y':48,
         'z':1025,
         'name':'GipperDipper'
     #  'description':' '
@@ -202,7 +202,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':-851,
-        'y':44,
+        'y':48,
         'z':1130,
         'name':'_Rogalik_Games_'
     #  'description':' '
@@ -210,7 +210,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':217,
-        'y':44,
+        'y':48,
         'z':1174,
         'name':'SkyDragon'
     #  'description':' '
@@ -218,7 +218,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':1072,
-        'y':44,
+        'y':48,
         'z':1209,
         'name':'el_mecanico'
     #  'description':' '
@@ -226,7 +226,7 @@ blue = [
     {
         'id':'Синяя ветка',
         'x':566,
-        'y':44,
+        'y':48,
         'z':1217,
         'name':'End portal namber 25'
     #  'description':' '

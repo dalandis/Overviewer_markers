@@ -2,7 +2,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':63,
-        'y':44,
+        'y':48,
         'z':-17,
         'name':'PupKin'
     #  'description':' '
@@ -10,7 +10,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':85,
-        'y':44,
+        'y':48,
         'z':22,
         'name':'joukeecz'
     #  'description':' '
@@ -18,7 +18,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':120,
-        'y':44,
+        'y':48,
         'z':24,
         'name':'MINI__FROSTIK_'
     #  'description':' '
@@ -26,7 +26,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':203,
-        'y':44,
+        'y':48,
         'z':73,
         'name':'Ферма визер-голов & Ферма ифритов'
     #  'description':' '
@@ -34,7 +34,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':227,
-        'y':44,
+        'y':48,
         'z':21,
         'name':'VardCook'
     #  'description':' '
@@ -42,7 +42,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':293,
-        'y':44,
+        'y':48,
         'z':209,
         'name':'Pro100Antoxa37'
     #  'description':' '
@@ -50,7 +50,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':314,
-        'y':44,
+        'y':48,
         'z':-147,
         'name':'kplay'
     #  'description':' '
@@ -58,7 +58,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':314,
-        'y':44,
+        'y':48,
         'z':-55,
         'name':'End portal namber 20'
     #  'description':' '
@@ -66,7 +66,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':360,
-        'y':44,
+        'y':48,
         'z':69,
         'name':'fN9ne'
     #  'description':' '
@@ -74,7 +74,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':397,
-        'y':44,
+        'y':48,
         'z':242,
         'name':'Immortal_Life'
     #  'description':' '
@@ -82,7 +82,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':409,
-        'y':44,
+        'y':48,
         'z':166,
         'name':'Evgenii'
     #  'description':' '
@@ -90,7 +90,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':422,
-        'y':44,
+        'y':48,
         'z':154,
         'name':'Cublay && kurlykepty && ilyas0'
     #  'description':' '
@@ -98,7 +98,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':408,
-        'y':44,
+        'y':48,
         'z':77,
         'name':'Som01'
     #  'description':' '
@@ -106,7 +106,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':435,
-        'y':44,
+        'y':48,
         'z':154,
         'name':'Мини комплекс ферм'
     #  'description':' '
@@ -114,7 +114,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':435,
-        'y':44,
+        'y':48,
         'z':7,
         'name':'The_Lurkez'
     #  'description':' '
@@ -122,7 +122,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':456,
-        'y':44,
+        'y':48,
         'z':46,
         'name':'ilyas0'
     #  'description':' '
@@ -130,7 +130,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':458,
-        'y':44,
+        'y':48,
         'z':56,
         'name':'Berlan'
     #  'description':' '
@@ -138,7 +138,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':453,
-        'y':44,
+        'y':48,
         'z':294,
         'name':'Lawer328'
     #  'description':' '
@@ -146,7 +146,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':464,
-        'y':44,
+        'y':48,
         'z':89,
         'name':'PraiseTheVodka'
     #  'description':' '
@@ -154,7 +154,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':507,
-        'y':44,
+        'y':48,
         'z':89,
         'name':'VladykaSirius'
     #  'description':' '
@@ -162,7 +162,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':514,
-        'y':44,
+        'y':48,
         'z':-237,
         'name':'Тогровый центр'
     #  'description':' '
@@ -170,7 +170,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':547,
-        'y':44,
+        'y':48,
         'z':-108,
         'name':'_LoganTV_ & TOPOTOP'
     #  'description':' '
@@ -178,7 +178,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':536,
-        'y':44,
+        'y':48,
         'z':425,
         'name':'Nebulet'
     #  'description':' '
@@ -186,7 +186,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':573,
-        'y':44,
+        'y':48,
         'z':113,
         'name':'End portal namber 2'
     #  'description':' '
@@ -194,7 +194,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':587,
-        'y':44,
+        'y':48,
         'z':155,
         'name':'lodachka'
     #  'description':' '
@@ -202,7 +202,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':632,
-        'y':44,
+        'y':48,
         'z':210,
         'name':'Takenava'
     #  'description':' '
@@ -210,7 +210,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':638,
-        'y':44,
+        'y':48,
         'z':60,
         'name':'Adekvatniy_'
     #  'description':' '
@@ -218,7 +218,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':650,
-        'y':44,
+        'y':48,
         'z':458,
         'name':'Li_Ora'
     #  'description':' '
@@ -226,7 +226,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':744,
-        'y':44,
+        'y':48,
         'z':667,
         'name':'End portal namber 26'
     #  'description':' '
@@ -234,7 +234,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':761,
-        'y':44,
+        'y':48,
         'z':829,
         'name':'Kharkovite'
     #  'description':' '
@@ -242,7 +242,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':840,
-        'y':44,
+        'y':48,
         'z':-833,
         'name':'Gogogoogle && Dyadya_Shnyuk'
     #  'description':' '
@@ -250,7 +250,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':846,
-        'y':44,
+        'y':48,
         'z':-226,
         'name':'Mr_Green25'
     #  'description':' '
@@ -258,7 +258,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':845,
-        'y':44,
+        'y':48,
         'z':461,
         'name':'SoftPanda3 && MiSanTo && TheBadCompany'
     #  'description':' '
@@ -266,7 +266,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':863,
-        'y':44,
+        'y':48,
         'z':-492,
         'name':'End portal namber 21'
     #  'description':' '
@@ -274,7 +274,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':925,
-        'y':44,
+        'y':48,
         'z':173,
         'name':'Ферма рейдов'
     #  'description':' '
@@ -282,7 +282,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':982,
-        'y':44,
+        'y':48,
         'z':-65,
         'name':'Bard_Allen'
     #  'description':' '
@@ -290,7 +290,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':984,
-        'y':44,
+        'y':48,
         'z':301,
         'name':'No_Oluk'
     #  'description':' '
@@ -298,7 +298,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':998,
-        'y':44,
+        'y':48,
         'z':-611,
         'name':'Грибной остров'
     #  'description':' '
@@ -306,7 +306,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':997,
-        'y':44,
+        'y':48,
         'z':71,
         'name':'marvinmango'
     #  'description':' '
@@ -314,7 +314,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':1012,
-        'y':44,
+        'y':48,
         'z':883,
         'name':'End portal namber 9'
     #  'description':' '
@@ -322,7 +322,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':1031,
-        'y':44,
+        'y':48,
         'z':107,
         'name':'End portal namber 7'
     #  'description':' '
@@ -330,7 +330,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':1036,
-        'y':44,
+        'y':48,
         'z':-152,
         'name':'AlexKiborg'
     #  'description':' '
@@ -338,7 +338,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':1046,
-        'y':44,
+        'y':48,
         'z':-719,
         'name':'Daesael'
     #  'description':' '
@@ -346,7 +346,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':1075,
-        'y':44,
+        'y':48,
         'z':412,
         'name':'Polymorph'
     #  'description':' '
@@ -354,7 +354,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':1141,
-        'y':44,
+        'y':48,
         'z':-847,
         'name':'rainbowoof'
     #  'description':' '
@@ -362,7 +362,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':1191,
-        'y':44,
+        'y':48,
         'z':989,
         'name':'mouin'
     #  'description':' '
@@ -370,7 +370,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':1224,
-        'y':44,
+        'y':48,
         'z':1140,
         'name':'Stein'
     #  'description':' '
@@ -378,7 +378,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':1229,
-        'y':44,
+        'y':48,
         'z':-730,
         'name':'Ферма гвардов'
     #  'description':' '
@@ -386,7 +386,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':1229,
-        'y':44,
+        'y':48,
         'z':-730,
         'name':'End portal namber 5'
     #  'description':' '
@@ -394,7 +394,7 @@ green = [
     {
         'id':'Зелёная ветка',
         'x':1219,
-        'y':44,
+        'y':48,
         'z':-563,
         'name':'PupKin'
     #  'description':' '
