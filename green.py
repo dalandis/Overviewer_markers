@@ -28,7 +28,7 @@ green = [
         'x':203,
         'y':48,
         'z':73,
-        'name':'Ферма визер-голов & Ферма ифритов'
+        'name':'Ферма визер-голов && Ферма ифритов'
     #  'description':' '
     },
     {
@@ -36,7 +36,7 @@ green = [
         'x':227,
         'y':48,
         'z':21,
-        'name':'VardCook'
+        'name':'_B1ackie_ (VardCook)'
     #  'description':' '
     },
     {
@@ -53,14 +53,6 @@ green = [
         'y':48,
         'z':-147,
         'name':'kplay'
-    #  'description':' '
-    },
-    {
-        'id':'Зелёная ветка',
-        'x':314,
-        'y':48,
-        'z':-55,
-        'name':'End portal namber 20'
     #  'description':' '
     },
     {
@@ -161,14 +153,6 @@ green = [
     },
     {
         'id':'Зелёная ветка',
-        'x':514,
-        'y':48,
-        'z':-237,
-        'name':'Тогровый центр'
-    #  'description':' '
-    },
-    {
-        'id':'Зелёная ветка',
         'x':547,
         'y':48,
         'z':-108,
@@ -181,14 +165,6 @@ green = [
         'y':48,
         'z':425,
         'name':'Nebulet'
-    #  'description':' '
-    },
-    {
-        'id':'Зелёная ветка',
-        'x':573,
-        'y':48,
-        'z':113,
-        'name':'End portal namber 2'
     #  'description':' '
     },
     {
@@ -225,14 +201,6 @@ green = [
     },
     {
         'id':'Зелёная ветка',
-        'x':744,
-        'y':48,
-        'z':667,
-        'name':'End portal namber 26'
-    #  'description':' '
-    },
-    {
-        'id':'Зелёная ветка',
         'x':761,
         'y':48,
         'z':829,
@@ -261,14 +229,6 @@ green = [
         'y':48,
         'z':461,
         'name':'SoftPanda3 && MiSanTo && TheBadCompany'
-    #  'description':' '
-    },
-    {
-        'id':'Зелёная ветка',
-        'x':863,
-        'y':48,
-        'z':-492,
-        'name':'End portal namber 21'
     #  'description':' '
     },
     {
@@ -309,22 +269,6 @@ green = [
         'y':48,
         'z':71,
         'name':'marvinmango'
-    #  'description':' '
-    },
-    {
-        'id':'Зелёная ветка',
-        'x':1012,
-        'y':48,
-        'z':883,
-        'name':'End portal namber 9'
-    #  'description':' '
-    },
-    {
-        'id':'Зелёная ветка',
-        'x':1031,
-        'y':48,
-        'z':107,
-        'name':'End portal namber 7'
     #  'description':' '
     },
     {
@@ -385,18 +329,10 @@ green = [
     },
     {
         'id':'Зелёная ветка',
-        'x':1229,
-        'y':48,
-        'z':-730,
-        'name':'End portal namber 5'
-    #  'description':' '
-    },
-    {
-        'id':'Зелёная ветка',
         'x':1219,
         'y':48,
         'z':-563,
-        'name':'PupKin'
+        'name':'Mirkovka'
     #  'description':' '
     }
 ]
