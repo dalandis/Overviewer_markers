@@ -4,15 +4,7 @@ red = [
         'x':-54,
         'y':48,
         'z':-209,
-        'name':'player Xaker__Cool'
-    #  'description':' '
-    },
-    {
-        'id':'Красная ветка',
-        'x':-191,
-        'y':48,
-        'z':-211,
-        'name':'End portal namber 10'
+        'name':'Xaker__Cool'
     #  'description':' '
     },
     {
@@ -20,7 +12,7 @@ red = [
         'x':188,
         'y':48,
         'z':-226,
-        'name':'player kapsha ( Mefisto1345 )'
+        'name':'kapsha ( Mefisto1345 )'
     #  'description':' '
     },
     {
@@ -28,7 +20,7 @@ red = [
         'x':-135,
         'y':48,
         'z':-237,
-        'name':'player SkyDance_'
+        'name':'SkyDance_'
     #  'description':' '
     },
     {
@@ -44,7 +36,7 @@ red = [
         'x':312,
         'y':48,
         'z':-312,
-        'name':'player Sawl'
+        'name':'Sawl'
     #  'description':' '
     },
     {
@@ -52,7 +44,7 @@ red = [
         'x':-201,
         'y':48,
         'z':-475,
-        'name':'player Jucl ( Chican )'
+        'name':'Jucl ( Chican )'
     #  'description':' '
     },
     {
@@ -60,15 +52,7 @@ red = [
         'x':-132,
         'y':48,
         'z':-490,
-        'name':'player Nefz'
-    #  'description':' '
-    },
-    {
-        'id':'Красная ветка',
-        'x':441,
-        'y':48,
-        'z':494,
-        'name':'End portal namber 11'
+        'name':'Nefz'
     #  'description':' '
     },
     {
@@ -76,7 +60,7 @@ red = [
         'x':90,
         'y':48,
         'z':-542,
-        'name':'player Fireshark112'
+        'name':'Fireshark112'
     #  'description':' '
     },
     {
@@ -100,7 +84,7 @@ red = [
         'x':225,
         'y':48,
         'z':-555,
-        'name':'player Hutas'
+        'name':'Hutas'
     #  'description':' '
     },
     {
@@ -108,23 +92,7 @@ red = [
         'x':-435,
         'y':48,
         'z':-563,
-        'name':'player Roma102009'
-    #  'description':' '
-    },
-    {
-        'id':'Красная ветка',
-        'x':-204,
-        'y':48,
-        'z':-618,
-        'name':'End portal namber 4'
-    #  'description':' '
-    },
-    {
-        'id':'Красная ветка',
-        'x':-126,
-        'y':48,
-        'z':-617,
-        'name':'Тогровый центр'
+        'name':'Roma102009'
     #  'description':' '
     },
     {
@@ -132,7 +100,7 @@ red = [
         'x':611,
         'y':48,
         'z':-710,
-        'name':'player BlackPirat'
+        'name':'BlackPirat'
     #  'description':' '
     },
     {
@@ -140,7 +108,7 @@ red = [
         'x':523,
         'y':48,
         'z':-719,
-        'name':'player Nergy_Box & S1mmy8769 & YT_FiNNSTER & Realgentelman'
+        'name':'Nergy_Box && S1mmy8769 && YT_FiNNSTER && Realgentelman'
     #  'description':' '
     },
     {
@@ -156,7 +124,7 @@ red = [
         'x':108,
         'y':48,
         'z':-763,
-        'name':'player eldalomeo'
+        'name':'eldalomeo'
     #  'description':' '
     },
     {
@@ -164,7 +132,7 @@ red = [
         'x':10,
         'y':48,
         'z':-749,
-        'name':'player DoCeNtTV'
+        'name':'DoCeNtTV'
     #  'description':' '
     },
     {
@@ -172,7 +140,7 @@ red = [
         'x':251,
         'y':48,
         'z':-782,
-        'name':'player dalandis'
+        'name':'dalandis'
     #  'description':' '
     },
     {
@@ -180,7 +148,7 @@ red = [
         'x':528,
         'y':48,
         'z':-814,
-        'name':'player van1llin'
+        'name':'van1llin'
     #  'description':' '
     },
     {
@@ -188,15 +156,7 @@ red = [
         'x':256,
         'y':48,
         'z':-923,
-        'name':'player Leila_OG'
-    #  'description':' '
-    },
-    {
-        'id':'Красная ветка',
-        'x':404,
-        'y':48,
-        'z':-925,
-        'name':'End portal namber 15'
+        'name':'Leila_OG'
     #  'description':' '
     },
     {
@@ -204,7 +164,7 @@ red = [
         'x':95,
         'y':48,
         'z':-977,
-        'name':'"Ферма ифритов & Ферма визер-голов"'
+        'name':'"Ферма ифритов && Ферма визер-голов"'
     #  'description':' '
     },
     {
@@ -212,15 +172,7 @@ red = [
         'x':-417,
         'y':48,
         'z':-1006,
-        'name':'player MinerFixed'
-    #  'description':' '
-    },
-    {
-        'id':'Красная ветка',
-        'x':-224,
-        'y':48,
-        'z':-1006,
-        'name':'End portal namber 8'
+        'name':'MinerFixed'
     #  'description':' '
     },
     {
@@ -228,23 +180,7 @@ red = [
         'x':-505,
         'y':48,
         'z':-1135,
-        'name':'player Matychka'
-    #  'description':' '
-    },
-    {
-        'id':'Красная ветка',
-        'x':-881,
-        'y':48,
-        'z':-1177,
-        'name':'End portal namber 16'
-    #  'description':' '
-    },
-    {
-        'id':'Красная ветка',
-        'x':-818,
-        'y':48,
-        'z':-1174,
-        'name':'End portal namber 22'
+        'name':'Matychka'
     #  'description':' '
     },
     {
@@ -252,7 +188,7 @@ red = [
         'x':-42,
         'y':48,
         'z':-1229,
-        'name':'player Ilyastik'
+        'name':'Ilyastik'
     #  'description':' '
     },
     {
