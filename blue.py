@@ -41,14 +41,6 @@ blue = [
     },
     {
         'id':'Синяя ветка',
-        'x':69,
-        'y':48,
-        'z':219,
-        'name':'End portal namber 1'
-    #  'description':' '
-    },
-    {
-        'id':'Синяя ветка',
         'x':51,
         'y':48,
         'z':245,
@@ -81,14 +73,6 @@ blue = [
     },
     {
         'id':'Синяя ветка',
-        'x':4,
-        'y':48,
-        'z':491,
-        'name':'Тогровый центр'
-    #  'description':' '
-    },
-    {
-        'id':'Синяя ветка',
         'x':-57,
         'y':48,
         'z':493,
@@ -105,26 +89,10 @@ blue = [
     },
     {
         'id':'Синяя ветка',
-        'x':-438,
-        'y':48,
-        'z':508,
-        'name':'End portal namber 19'
-    #  'description':' '
-    },
-    {
-        'id':'Синяя ветка',
         'x':-256,
         'y':48,
         'z':523,
         'name':'THESKILL'
-    #  'description':' '
-    },
-    {
-        'id':'Синяя ветка',
-        'x':195,
-        'y':48,
-        'z':547,
-        'name':'End portal namber 17'
     #  'description':' '
     },
     {
@@ -177,22 +145,6 @@ blue = [
     },
     {
         'id':'Синяя ветка',
-        'x':-434,
-        'y':48,
-        'z':956,
-        'name':'End portal namber 18'
-    #  'description':' '
-    },
-    {
-        'id':'Синяя ветка',
-        'x':231,
-        'y':48,
-        'z':1015,
-        'name':'End portal namber 24'
-    #  'description':' '
-    },
-    {
-        'id':'Синяя ветка',
         'x':-319,
         'y':48,
         'z':1025,
@@ -223,12 +175,4 @@ blue = [
         'name':'el_mecanico'
     #  'description':' '
     },
-    {
-        'id':'Синяя ветка',
-        'x':566,
-        'y':48,
-        'z':1217,
-        'name':'End portal namber 25'
-    #  'description':' '
-    }
 ]
