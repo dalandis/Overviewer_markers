@@ -75,7 +75,7 @@ end_portals = [
         'id':'End portal',
         'x':-191,
         'y':48,
-        'z':-29,
+        'z':-209,
         'name':'End portal namber 10',
         'description':'Для поиска "Красная 209"'
     },
