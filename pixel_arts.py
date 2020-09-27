@@ -28,7 +28,7 @@ pixel_arts = [
             'x':-137,
             'y':58,
             'z':389,
-            'name':'---',
+            'name':'legushQka',
             'description':'Карта Короля:)))'
         },
         {
