@@ -209,7 +209,7 @@ end_portals = [
     },
     {
         'id':'End portal',
-        'x':543,
+        'x':-543,
         'y':48,
         'z':1265,
         'name':'End portal namber 27',
