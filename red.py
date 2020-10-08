@@ -75,7 +75,7 @@ red = [
         'id':'Красная ветка',
         'x':611,
         'y':48,
-        'z':-713,
+        'z':-707,
         'name':'BlackPirat'
     #  'description':' '
     },
@@ -83,7 +83,7 @@ red = [
         'id':'Красная ветка',
         'x':520,
         'y':48,
-        'z':-725,
+        'z':-719,
         'name':'Nergy_Box && S1mmy8769 && YT_FiNNSTER && Realgentelman'
     #  'description':' '
     },
@@ -127,6 +127,22 @@ red = [
         'name':'Leila_OG'
     #  'description':' '
     },
+    {
+        'id':'Красная ветка',
+        'x':254,
+        'y':48,
+        'z':-1073,
+        'name':'Weyland'
+    #  'description':' '
+    }, 
+    {
+        'id':'Красная ветка',
+        'x':272,
+        'y':48,
+        'z':-1175,
+        'name':'_Adrian_07_'
+    #  'description':' '
+    },    
     {
         'id':'Красная ветка',
         'x':-408,
