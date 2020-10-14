@@ -44,7 +44,7 @@ blue = [
         'x':42,
         'y':48,
         'z':257,
-        'name':'ApelsinA'
+        'name':'NiksaVanOhmu (ApelsinA)'
     #  'description':' '
     },
     {
