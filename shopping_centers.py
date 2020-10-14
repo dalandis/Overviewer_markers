@@ -1,4 +1,4 @@
-shopping centers = [ 
+shopping_centers = [ 
         {
             'id':'Торговые центры',
             'x':4080,
