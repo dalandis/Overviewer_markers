@@ -207,4 +207,12 @@ pixel_arts = [
             'name':'Автор: CublayCraft',
             'description':'Название: Газета CublayCraft'
         },
+        {
+            'id':'Пиксель арты',
+            'x':525,
+            'y':58,
+            'z':571,
+            'name':'Автор: Dalandis',
+            'description':'Название: AC/DC. При поддержке СофтПанды, Престижа, Матюши и Штейняши'
+        },
 ]
