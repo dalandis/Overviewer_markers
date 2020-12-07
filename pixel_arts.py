@@ -294,5 +294,13 @@ pixel_arts = [
             'z':650,
             'name':'Автор: Kerubifi',
             'description':'Название: Тян'
-        }        
+        },
+        {
+            'id':'Пиксель арты',
+            'x':-571,
+            'y':58,
+            'z':60,
+            'name':'Автор: Reserve',
+            'description':'Название: reserve '
+        }       
 ]        
