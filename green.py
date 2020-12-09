@@ -28,7 +28,7 @@ green = [
         'x':227,
         'y':48,
         'z':-25,
-        'name':'_B1ackie_ (VardCook)'
+        'name':'Шакалы Блэки и Штейн'
     #  'description':' '
     },
     {
